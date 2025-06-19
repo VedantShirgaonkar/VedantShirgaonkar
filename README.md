@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+<!--
 ### 🧑‍💻 Terminal-style About Me
 
 ```bash
