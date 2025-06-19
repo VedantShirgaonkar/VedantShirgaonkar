@@ -12,45 +12,27 @@
   🎓 Third-year Engineering Undergrad at <strong>DJSCE</strong>
 </p>
 
----
 
 ---
 
-### 🛠️ Tech Stack
 
-```yaml
-Languages:
-  - Python
-  - C
-  - C++
-  - Java
+### 🧠 Tech Stack
 
-Data Science & ML Libraries:
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Scikit-learn
+**Languages:**  
+Python • C • C++ • Java
 
-Deep Learning Frameworks:
-  - TensorFlow
-  - PyTorch
-  - Ollama
+**Data Science & ML:**  
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
 
-Web & App Frameworks:
-  - Flask
-  - Streamlit
+**Deep Learning:**  
+TensorFlow • PyTorch • Ollama
 
-DevOps & Deployment:
-  - Docker
-  - Git & GitHub
-  - GitHub Actions (learning)
+**Frameworks:**  
+Flask • Streamlit
 
-Environments & Tools:
-  - Jupyter Notebook
-  - VS Code
-  - Linux / WSL
-```
+**DevOps & Tools:**  
+Docker • Git • GitHub • Jupyter • VS Code • Linux
+
 
 <!--
 
