@@ -1,7 +1,9 @@
 <h1 align="center">Hey there! I'm Vedant 👋</h1>
 
+<h3 align="center">An avid developer exploring ML, DevOps, LLMs & Deep Learning systems</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=ML+%7C+DevOps+%7C+Cloud+Learner;Building+Real+Projects+%F0%9F%9A%80;Exploring+Data%2C+Docker+%26+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+DevOps+%7C+LLMs;Building+Scalable+Projects+%F0%9F%9A%80;Learning+Systems+that+Learn;Tinkering+with+AI+%26+Automation+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
