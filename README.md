@@ -17,6 +17,17 @@
 
 ---
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantsxyz&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsxyz&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantsxyz&theme=github-compact&area=true" />
+</p>
+
 ## 🛠️ Tech Stack
 
 ```yaml
