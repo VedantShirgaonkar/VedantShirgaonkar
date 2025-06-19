@@ -55,7 +55,7 @@ Tools:         Git, Linux, VS Code, Postman
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedantsxyz&theme=radical&no-frame=true&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VedantShirgaonkar&theme=radical&no-frame=true&column=6&margin-w=10" />
 </p>
 
 ---
