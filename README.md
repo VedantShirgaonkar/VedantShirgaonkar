@@ -37,7 +37,7 @@ DevOps: Docker, Docker Compose, GitHub Actions
 Databases: MySQL, Redis, MongoDB (learning)
 Cloud/Platforms: Azure (Student Verified), AWS Educate
 Others: Git, Linux, Postman, VS Code
-
+```
 ---
 
 <p align="left">
