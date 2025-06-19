@@ -7,6 +7,11 @@
 </p>
 
 ---
+
+<p align="center">
+  🎓 Third-year Engineering Undergrad at <strong>DJSCE</strong>
+</p>
+
 <!--
 ### 🧑‍💻 Terminal-style About Me
 
