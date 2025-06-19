@@ -16,22 +16,22 @@
 ---
 
 
-### 🧠 Tech Stack
+### ⚙️ Tech Stack
 
-**Languages:**  
-Python • C • C++ • Java
+**💻 Languages:**  
+`Python` • `C` • `C++` • `Java`
 
-**Data Science & ML:**  
-NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+**📊 Data & ML Libraries:**  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
-**Deep Learning:**  
-TensorFlow • PyTorch • Ollama
+**🧠 Deep Learning:**  
+`TensorFlow` • `PyTorch` • `Ollama`
 
-**Frameworks:**  
-Flask • Streamlit
+**🌐 Frameworks:**  
+`Flask` • `Streamlit`
 
-**DevOps & Tools:**  
-Docker • Git • GitHub • Jupyter • VS Code • Linux
+**🚀 DevOps & Tools:**  
+`Docker` • `Git` • `GitHub` • `Jupyter` • `VS Code` • `Linux`
 
 
 <!--
