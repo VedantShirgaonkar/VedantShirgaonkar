@@ -47,12 +47,12 @@ Tools:         Git, VS Code, Postman, Linux
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantsxyz&show_icons=true&hide_title=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsxyz&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&hide_title=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantShirgaonkar&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantsxyz&theme=rogue&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantShirgaonkar&theme=rogue&area=true&hide_border=true" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Tools:         Git, VS Code, Postman, Linux
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vedantsxyz/vedantsxyz/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/VedantShirgaonkar/VedantShirgaonkar/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
