@@ -79,7 +79,6 @@ Tools:         Git, Linux, VS Code, Postman
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=g3dmbir61ukzh3k4lq62345id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
-> 📝 Replace `your_spotify_user_id` in the image URL above with your actual Spotify user ID.
 
 ---
 
