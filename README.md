@@ -1,47 +1,80 @@
-<h1 align="center">Hi 👋, I'm Vedant S</h1>
-<h3 align="center">🚀 A passionate learner, developer & problem-solver from India</h3>
-
+<h1 align="center">Hey there! I'm Vedant 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Backend+%7C+Cloud+%7C+DevOps+Learner;Lifelong+Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=ML+%7C+DevOps+%7C+Cloud+Learner;Building+Real+Projects+%F0%9F%9A%80;Exploring+Data%2C+Docker+%26+Deployment" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🔭 Currently exploring **Machine Learning, DevOps, and Cloud Platforms**
-- 🧰 Practicing **Docker**, **GitHub Actions**, **MySQL**, and **Redis**
-- 📚 Strengthening **Data Structures**, **Algorithms**, and **System Design**
-- 💡 Building **real-world projects** to bridge theory and practice
-- 🎯 Focused on becoming a **well-rounded developer & ML engineer**
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VedantShirgaonkar&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantShirgaonkar&theme=github-compact&area=true" />
-</p>
-
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
 ```yaml
-Languages: Python, C++, JavaScript, Bash
-ML/DS Tools: Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter
-DevOps: Docker, Docker Compose, GitHub Actions
-Databases: MySQL, Redis, MongoDB (learning)
-Cloud/Platforms: Azure (Student Verified), AWS Educate
-Others: Git, Linux, Postman, VS Code
+🎓 Currently: B.Tech Student & ML Enthusiast  
+🚀 Interests: AI, Backend Systems, Cloud, DevOps  
+📦 Learning: Docker, GitHub Actions, Redis, Azure  
+📈 Goal: Build scalable, real-world applications
 ```
+
 ---
 
-<p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 🛠️ Tech Stack
+
+```yaml
+Languages:     Python, C++, JavaScript, Bash  
+Databases:     MySQL, Redis, MongoDB (learning)  
+ML/DS Tools:   Scikit-learn, Pandas, NumPy, Jupyter  
+DevOps:        Docker, Docker Compose, GitHub Actions  
+Platforms:     Azure (Verified), AWS Educate  
+Tools:         Git, VS Code, Postman, Linux
+```
+
+---
+
+### 🔥 Projects Spotlight
+
+- 🎥 **AI Interview Tracker** – Webcam-based emotion analysis  
+  _Tech:_ Flask, OpenCV, JavaScript, ML  
+
+- 📦 **Docker Playground** – MySQL + Redis + Flask via Docker Compose  
+  _Tech:_ Docker, MySQL, Redis, Python  
+
+- 📊 **ML from Scratch** – Core algorithms with step-by-step logic  
+  _Tech:_ NumPy, Jupyter Notebook  
+
+🔗 *Check pinned repositories for more!*
+
+---
+
+### 📊 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantsxyz&show_icons=true&hide_title=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsxyz&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantsxyz&theme=rogue&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedantsxyz/vedantsxyz/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ “Stay curious. Build relentlessly.”
 </p>
