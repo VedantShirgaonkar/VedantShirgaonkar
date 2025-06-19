@@ -12,35 +12,52 @@
   🎓 Third-year Engineering Undergrad at <strong>DJSCE</strong>
 </p>
 
-<!--
-### 🧑‍💻 Terminal-style About Me
-
-```bash
-> whoami
-Vedant S | ML, Cloud & DevOps Enthusiast
-
-> interests
-AI, Backend Engineering, System Design, Cloud Platforms
-
-> learning
-Docker, GitHub Actions, Redis, Azure, Kubernetes (next)
-
-> motto
-"Stay curious. Build relentlessly."
-```
+---
 
 ---
 
 ### 🛠️ Tech Stack
 
 ```yaml
-Languages:     Python, C++, JavaScript, Bash
-Databases:     MySQL, Redis, MongoDB (learning)
-ML/DS Tools:   Scikit-learn, Pandas, NumPy, Jupyter
-DevOps:        Docker, Docker Compose, GitHub Actions
-Platforms:     Azure (Verified), AWS Educate
-Tools:         Git, Linux, VS Code, Postman
+Languages:
+  - Python
+  - C
+  - C++
+  - Java
+
+Data Science & ML Libraries:
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
+
+Deep Learning Frameworks:
+  - TensorFlow
+  - PyTorch
+  - Ollama
+
+Web & App Frameworks:
+  - Flask
+  - Streamlit
+
+DevOps & Deployment:
+  - Docker
+  - Git & GitHub
+  - GitHub Actions (learning)
+
+Environments & Tools:
+  - Jupyter Notebook
+  - VS Code
+  - Linux / WSL
 ```
+
+<!--
+
+
+---
+
+
 
 ---
 
