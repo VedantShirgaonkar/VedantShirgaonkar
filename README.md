@@ -18,19 +18,19 @@
 
 ### ⚙️ Tech Stack
 
-**💻 Languages:**  
+**Languages:**  
 `Python` • `C` • `C++` • `Java`
 
-**📊 Data & ML Libraries:**  
+**Data & ML Libraries:**  
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
-**🧠 Deep Learning:**  
+**Deep Learning:**  
 `TensorFlow` • `PyTorch` • `Ollama`
 
-**🌐 Frameworks:**  
+**Frameworks:**  
 `Flask` • `Streamlit`
 
-**🚀 DevOps & Tools:**  
+**DevOps & Tools:**  
 `Docker` • `Git` • `GitHub` • `Jupyter` • `VS Code` • `Linux`
 
 <p align="center">
