@@ -82,10 +82,8 @@
 
 ---
 
-### 🎧 Spotify Now Playing
-
 <p align="center">
-  <img src="https://spotify-github-profile-two-chi.vercel.app/api/view?uid=g3dmbir61ukzh3k4lq62345id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile-two-chi.vercel.app/api/view?uid=g3dmbir61ukzh3k4lq62345id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true&cachebuster=2" />
 </p>
 
 
