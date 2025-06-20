@@ -85,7 +85,12 @@
 ### 🤝 Let’s Connect & Collaborate!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=I'm+always+open+to+connecting+%F0%9F%93%A1;Let's+talk+ML%2C+DevOps+or+Cool+AI+Ideas!%F0%9F%A4%96" alt="Connect Typing SVG" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Handshake gif" />
+</p>
+
+<p align="center">
+  <b>Open to chats, collabs & learning together!</b><br>
+  Whether you want to talk ML, DevOps, or just nerd out about AI systems — I’d love to hear from you.
 </p>
 
 <p align="center">
