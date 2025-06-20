@@ -6,16 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Learning+Systems+that+Learn;Machine+Learning+%7C+DevOps+%7C+LLMs;Building+Scalable+Projects;Tinkering+with+AI+%26+Automation" alt="Typing SVG" />
 </p>
 
-
+---
 
 <p align="center">
   🎓 Third-year CSE-DS Undergrad at <strong>DJSCE</strong>
 </p>
 
+---
 
 
-
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="48%" />
