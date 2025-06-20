@@ -85,7 +85,7 @@
 ### 🤝 Let’s Connect & Collaborate!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Handshake gif" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="160" alt="Chatting laptop gif" />
 </p>
 
 <p align="center">
