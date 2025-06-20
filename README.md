@@ -74,12 +74,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&theme=onedark&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantShirgaonkar&theme=onedark&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantShirgaonkar&theme=github_dark&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantShirgaonkar&theme=onedark&area=true&hide_border=true&radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantShirgaonkar&theme=github_dark&area=true&hide_border=true&radius=10" />
 </p>
 
 
