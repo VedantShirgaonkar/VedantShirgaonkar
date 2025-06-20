@@ -82,8 +82,10 @@
 
 ---
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VedantShirgaonkar/VedantShirgaonkar/output/github-contribution-grid-snake.svg?nocache=1" />
+  <img src="https://raw.githubusercontent.com/VedantShirgaonkar/VedantShirgaonkar/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions" />
 </p>
 
 <!--
