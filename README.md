@@ -86,11 +86,7 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/VedantShirgaonkar/VedantShirgaonkar/output/github-contribution-grid-snake1.svg?timestamp=20250620" />
-</p>
 
 <!--
 ### 🔥 Projects Spotlight
@@ -117,16 +113,6 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=g3dmbir61ukzh3k4lq62345id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedantsxyz/VedantShirgaonkar/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-**🎯 Auto-setup Guide:** [Enable Snake Animation →](https://github.com/Platane/snk)
 
 ---
 
