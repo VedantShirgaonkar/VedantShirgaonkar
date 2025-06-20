@@ -82,14 +82,21 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🤝 Let’s Connect & Collaborate!
 
 <p align="center">
-  <a href="mailto:vedxntshirgaonkar.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=I'm+always+open+to+connecting+%F0%9F%93%A1;Let's+talk+ML%2C+DevOps+or+Cool+AI+Ideas!%F0%9F%A4%96" alt="Connect Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:vedxntshirgaonkar@gmail.com" target="_blank" title="Let's connect over email!">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/vedant-shirgaonkar-441582324/" target="_blank">
+  <a href="https://www.linkedin.com/in/vedant-shirgaonkar-441582324/" target="_blank" title="Find me on LinkedIn!">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discord.com/users/1355923989264072895" target="_blank" title="Message me on Discord!">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
 
