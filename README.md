@@ -69,8 +69,6 @@
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -81,6 +79,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantShirgaonkar&theme=rogue&area=true&hide_border=true&radius=10" />
 </p>
+
+---
 
 
 <!--
@@ -99,24 +99,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VedantShirgaonkar&theme=radical&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantShirgaonkar&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantShirgaonkar&theme=rogue&area=true&hide_border=true" />
-</p>
 
 ---
 
