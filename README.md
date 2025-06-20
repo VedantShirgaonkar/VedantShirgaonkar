@@ -82,12 +82,16 @@
 
 ---
 
+### 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://spotify-github-profile-two-chi.vercel.app/api/view?uid=g3dmbir61ukzh3k4lq62345id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true&cachebuster=2" />
+  <a href="mailto:vedxntshirgaonkar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-shirgaonkar-441582324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
-
-
----
 
 
 
