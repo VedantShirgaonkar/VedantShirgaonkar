@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  🎓 Third-year Engineering Undergrad at <strong>DJSCE</strong>
+  🎓 Third-year CSE-DS Undergrad at <strong>DJSCE</strong>
 </p>
 
 
