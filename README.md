@@ -82,6 +82,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VedantShirgaonkar/VedantShirgaonkar/output/github-contribution-grid-snake.svg" />
+</p>
 
 <!--
 ### 🔥 Projects Spotlight
