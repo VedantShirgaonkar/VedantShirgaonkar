@@ -85,7 +85,7 @@
 ### 🤝 Let’s Connect & Collaborate!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180"/>
 </p>
 
 <p align="center">
