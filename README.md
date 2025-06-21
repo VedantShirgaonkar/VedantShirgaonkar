@@ -97,9 +97,6 @@
   <a href="https://www.linkedin.com/in/vedant-shirgaonkar-441582324/" target="_blank" title="Find me on LinkedIn!">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.com/users/1355923989264072895" target="_blank" title="Message me on Discord!">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
 </p>
 
 
