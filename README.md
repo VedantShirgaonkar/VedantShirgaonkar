@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantShirgaonkar&theme=dracula&hide_border=true&border_radius=10" width="30%" />
+  <img src="https://streak-stats.demolab.com/?user=VedantShirgaonkar&theme=dracula&hide_border=true&border_radius=10" width="30%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantShirgaonkar&layout=compact&theme=dracula&hide_border=true&border_radius=10" width="30%" />
 </p>
 
