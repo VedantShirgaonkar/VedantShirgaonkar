@@ -105,13 +105,7 @@
 
 ---
 
-### 📌 Featured Projects
-
 <p align="center">
-  <a href="https://github.com/VedantShirgaonkar/end-to-end-ml-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantShirgaonkar&repo=end-to-end-ml-project&theme=radical" />
-  </a>
-  <a href="https://github.com/VedantShirgaonkar/devops-lab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantShirgaonkar&repo=devops-lab&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantShirgaonkar&show_icons=true&theme=radical&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantShirgaonkar&layout=compact&theme=radical" width="48%" />
 </p>
