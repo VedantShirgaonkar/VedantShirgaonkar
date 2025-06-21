@@ -8,11 +8,7 @@
 
 ---
 
-<p align="center">
-  🎓 Third-year CSE-DS Undergrad at <strong>DJSCE</strong>
-</p>
 
----
 
 
 ## GitHub Stats
