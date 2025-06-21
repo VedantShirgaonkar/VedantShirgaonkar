@@ -25,7 +25,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 **Languages:**  
 `Python` • `C` • `C++` • `Java`
@@ -86,7 +86,7 @@
 
 <p align="center">
   <b>Open to chats, collabs & learning together!</b><br>
-  Whether you want to talk ML, DevOps, or just nerd out about AI systems — I’d love to hear from you.
+  <i>Whether you wanna chat about learning, building, or geeking out over cool ideas — I’m all ears!</i>
 </p>
 
 <p align="center">
