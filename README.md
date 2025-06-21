@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Vedant 👋</h1>
 
-<h3 align="center">An avid developer exploring ML, DevOps, LLMs & Deep Learning systems</h3>
+<h3 align="center">An avid developer exploring ML, DevOps & Deep Learning systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Learning+Systems+that+Learn;Machine+Learning+%7C+DevOps+%7C+LLMs;Building+Scalable+Projects;Tinkering+with+AI+%26+Automation" alt="Typing SVG" />
