@@ -103,34 +103,15 @@
 
 
 
-<!--
-### 🔥 Projects Spotlight
-
-- 🎥 **AI Interview Tracker** – Webcam-based emotion analysis  
-  _Tech:_ Flask, OpenCV, JavaScript, ML  
-
-- 📦 **Docker Playground** – MySQL + Redis + Flask via Docker Compose  
-  _Tech:_ Docker, MySQL, Redis, Python  
-
-- 📊 **ML from Scratch** – Core algorithms with step-by-step logic  
-  _Tech:_ NumPy, Jupyter Notebook  
-
-🔗 *Check pinned repositories for more!*
-
 ---
 
-
----
-
-
-
-
----
-
-### 📫 Let’s Connect
+### 📌 Featured Projects
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/VedantShirgaonkar/end-to-end-ml-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantShirgaonkar&repo=end-to-end-ml-project&theme=radical" />
+  </a>
+  <a href="https://github.com/VedantShirgaonkar/devops-lab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantShirgaonkar&repo=devops-lab&theme=radical" />
+  </a>
 </p>
