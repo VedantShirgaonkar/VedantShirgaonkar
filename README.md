@@ -28,20 +28,26 @@
 
 ## ⚙️ Tech Stack
 
-**Languages:**  
+**Programming Languages:**  
 `Python` • `C` • `C++` • `Java`
 
-**Data & ML Libraries:**  
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
+**Data Analysis & Machine Learning:**  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `MLflow` • `DagsHub`
 
-**Deep Learning:**  
-`TensorFlow` • `PyTorch` • `Ollama`
+**Deep Learning & AI Platforms:**  
+`TensorFlow` • `PyTorch` • `Ollama` • `HuggingFace` • `LangChain` • `LangGraph` • `Groq`
 
-**Frameworks:**  
-`Flask` • `Streamlit`
+**Web & API Frameworks:**  
+`Flask` • `Streamlit` • `FastAPI`
 
-**DevOps & Tools:**  
-`Docker` • `Git` • `GitHub` • `Jupyter` • `VS Code` • `Linux`
+**Computer Vision & Media Processing:**  
+`MediaPipe` • `OpenCV`
+
+**DevOps, Automation & Cloud:**  
+`Docker` • `Git` • `GitHub` • `GitHub Actions` • `n8n` • `GCP` • `Jupyter` 
+
+**Databases & Storage:**  
+`SQL` • `SQLite` • `PostgreSQL` • `Parquet`
 
 <p align="center">
   
@@ -86,8 +92,10 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-  
-</p>
+  <!-- 🗄 Databases & Storage -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parquet-005C8C?style=for-the-badge&logo=apacheparquet&logoColor=white" />
 
 ---
 
